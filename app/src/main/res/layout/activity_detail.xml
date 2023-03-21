@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity"
+    android:background="@color/darkcolor">
+
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:text=""
+        android:textSize="25dp"
+        android:textColor="@color/white"/>
+
+    <RatingBar
+        android:id="@+id/rbVoteAverage"
+        style="@style/Widget.AppCompat.RatingBar.Indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="5dp"
+        android:isIndicator="true"
+        android:numStars="10"
+        android:stepSize="0.5" />
+
+    <TextView
+        android:id="@+id/tvVoters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="5dp"
+        android:text=""
+        android:textSize="9dp"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/tvOverview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:text=""
+        android:textSize="15dp"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif-light"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Similar shows:"
+        android:textSize="10dp"
+        android:textAllCaps="true"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="2dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/white"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/detailRV"
+        android:layout_width="match_parent"
+        android:layout_height="1500dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+</LinearLayout>
