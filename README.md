@@ -30,7 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-fd9c2b94f6.gif' title='Video Walkthrough' width='270' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-fd9c2b94f6.gif' title='Video Walkthrough' width='300' height='300' alt='Video Walkthrough' />
+
+<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-f6bc5e81fb.gif' title='Video Walkthrough' width='270' alt='Video Walkthrough' />
 
 GIF created with Ezgif.com
 
