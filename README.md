@@ -2,7 +2,8 @@
 
 Submitted by: **Agrika Gupta**
 
-**TrendyTV** is a movie browsing app that allows users to browse 
+**TrendyTV** is a movie browsing app that allows users to browse currently popular TV shows. Upon clicking a particular movie, users can see the full overview, average number of stars out of 10, and total number of voters for the movie.
+ Users can also interact and find similar titles/TV shows. 
 
 Time spent: **6** hours spent in total
 
