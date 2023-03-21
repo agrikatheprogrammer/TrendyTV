@@ -52,6 +52,7 @@ class TVShowAdapter(private val context : Context, private val tvshows: List<TVS
             Glide.with(context)
                 .load(tvshow.posterImageURL)
                 .centerCrop()
+                .transform(RoundedCorners(30))
                 .placeholder(R.drawable.hourglass)
                 .error(R.drawable.error)
                 .into(tvPoster)
