@@ -2,7 +2,7 @@
 
 Submitted by: **Agrika Gupta**
 
-**TrendyTV** is a movie browsing app that allows users to browse ... [TODO] 
+**TrendyTV** is a movie browsing app that allows users to browse 
 
 Time spent: **6** hours spent in total
 
@@ -30,9 +30,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-fd9c2b94f6.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-2-aeacef7ff0.gif' title='Video Walkthrough with rounded corners to images' width='280' alt='Video Walkthrough' />
 
-<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-f6bc5e81fb.gif' title='Video Walkthrough' width='270' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-fd9c2b94f6.gif' title='Video Walkthrough' width='280' alt='Video Walkthrough' />
+
+<img src='https://github.com/agrikatheprogrammer/TrendyTV/blob/main/ezgif-1-f6bc5e81fb.gif' title='Video Walkthrough' width='280' alt='Video Walkthrough' />
 
 GIF created with Ezgif.com
 
